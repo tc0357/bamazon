@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^4.0.2",
-    "mysql": "^2.15.0",
-    "require": "^2.4.20"
+    "mysql": "^2.15.0"
   }
 }
